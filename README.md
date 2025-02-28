@@ -13,8 +13,6 @@
 📫 Let's connect! Feel free to reach out.  
 **
 
-🔧 **Main Technologies:**  
-
 ### 🔧 Tech Stack  
 - **Backend:** .NET | C# | Entity Framework Core | ASP.NET Core | REST API | JWT Authentication  
 - **Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS | TypeScript | Vite | Node.js | Vue.js
