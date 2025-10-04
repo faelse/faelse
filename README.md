@@ -4,7 +4,6 @@
 
 <h1 align="left">Hi 👋! My name is Rafael and I'm a Computer Science Student at UECE</h1>
 
-###
 
 <div align="left">
   <a href="https://discord.com/users/321338095259877377" target="_blank">
