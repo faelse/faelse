@@ -7,14 +7,6 @@
 
 ---
 
-# 📖| Sobre Mim
-###  Sou estudante de Ciência da Computação na UECE, apaixonado por **desenvolvimento web e lógica de programação**. 
-###  Atualmente explorando **React, TypeScript e TailwindCSS** para construir aplicações modernas e interativas.
-
----
-
-# Habilidades
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -38,6 +30,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
+---
+
+# 📖| Sobre Mim
+###  Sou estudante de Ciência da Computação na UECE, apaixonado por **desenvolvimento web e lógica de programação**. 
+###  Atualmente explorando **React, TypeScript e TailwindCSS** para construir aplicações modernas e interativas.
 
 ---
 
