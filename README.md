@@ -5,8 +5,6 @@
 <h1 align="center">Olá 👋, eu sou o Rafael!</h1>
 <h2 align="center">Sou Desenvolvedor de Sistemas e estudante de Ciência da Computação na Universidade Estadual do Ceará.</h2>
 
----
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -30,6 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
+
 ---
 
 # 📖| Sobre Mim
