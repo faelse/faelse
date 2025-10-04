@@ -1,7 +1,12 @@
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI2Yzc1a3Y3cGNsdG9vaG14cWdjOTk0bXMxZGk0b2hxZms2ZTBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI2Yzc1a3Y3cGNsdG9vaG14cWdjOTk0bXMxZGk0b2hxZms2ZTBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
+</div>
 
-<h1 align="left">Hi 👋! My name is Rafael and I'm a Computer Science Student at UECE</h1>
+###
 
+<h1 align="left">Hi 👋! My name is Rafael and I'm a Computer Science Student, from UECE</h1>
+
+###
 
 <div align="left">
   <a href="https://discord.com/users/321338095259877377" target="_blank">
@@ -14,6 +19,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
