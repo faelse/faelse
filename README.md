@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI2Yzc1a3Y3cGNsdG9vaG14cWdjOTk0bXMxZGk0b2hxZms2ZTBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
-</div>
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI2Yzc1a3Y3cGNsdG9vaG14cWdjOTk0bXMxZGk0b2hxZms2ZTBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
+
+###
+
+<h1 align="center">Olá 👋</h1>
 
 ###
 
@@ -16,11 +18,7 @@
 
 ###
 
-<h1 align="center">Olá 👋</h1>
-
-###
-
-<h2 align="left">Sou Rafael, de Fortaleza, Ceará<br><br>🔭 Sou Desenvolvedor de Sistemas<br><br>📚 Atualmente estou cursando Ciência da Computação na Universidade Estadual do Ceará (UECE)</h2>
+<h2 align="left">🔭 Sou Desenvolvedor de Sistemas<br><br>📚 Atualmente estou cursando Ciência da Computação na Universidade Estadual do Ceará (UECE)</h2>
 
 ###
 
