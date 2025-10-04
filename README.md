@@ -22,7 +22,7 @@
 ---
 
 ## About Me
-I'm a Computer Science student at UECE, passionate about **web development, C programming, and open-source projects**.  
+I'm a Computer Science student at UECE, passionate about **web development and programming logic**.  
 Currently exploring **React, TypeScript, TailwindCSS** to build modern and interactive applications.
 
 ---
