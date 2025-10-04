@@ -2,8 +2,8 @@
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI2Yzc1a3Y3cGNsdG9vaG14cWdjOTk0bXMxZGk0b2hxZms2ZTBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Rafael!</h1>
-<h3 align="center">A Computer Science student at UECE and a passionate Systems Developer</h3>
+<h1 align="center">Olá 👋, eu sou o Rafael!</h1>
+<h2 align="center">Estudante de Ciência da Computação na Universidade Estadual do Ceará e Desenvolvedor de Sistemas</h2>
 
 ---
 
@@ -21,13 +21,13 @@
 
 ---
 
-# About Me
-### I'm a Computer Science student at UECE, passionate about **web development and programming logic**.  
-### Currently exploring **React, TypeScript, TailwindCSS** to build modern and interactive applications.
+# Sobre Mim
+### Sou estudante de Ciência da Computação na UECE, apaixonado por **desenvolvimento web e lógica de programação**.  
+### Atualmente explorando **React, TypeScript e TailwindCSS** para construir aplicações modernas e interativas.
 
 ---
 
-# Skills
+# Habilidades
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -62,6 +62,6 @@
 
 ---
 
-## 📫 Let's Connect!
-### Feel free to reach out via [Discord](https://discord.com/users/321338095259877377) or [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rafael-24ba46313/)!  
-### You can also email me at **tech.rafaellima@gmail.com**.
+## 📫 Vamos nos Conectar!
+### Sinta-se à vontade para me contatar via [Discord](https://discord.com/users/321338095259877377) ou [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rafael-24ba46313/)!  
+### Você também pode me enviar um e-mail para **tech.rafaellima@gmail.com**.
