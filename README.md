@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Olá 👋, eu sou o Rafael!</h1>
-<h2 align="center">Sou Desenvolvedor de Sistemasstudante e estudante de Ciência da Computação na Universidade Estadual do Ceará.</h2>
+<h2 align="center">Sou Desenvolvedor de Sistemas e estudante de Ciência da Computação na Universidade Estadual do Ceará.</h2>
 
 <div align="center">
   <a href="https://discord.com/users/321338095259877377" target="_blank">
