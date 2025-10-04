@@ -5,18 +5,6 @@
 <h1 align="center">Olá 👋, eu sou o Rafael!</h1>
 <h2 align="center">Sou Desenvolvedor de Sistemas e estudante de Ciência da Computação na Universidade Estadual do Ceará.</h2>
 
-<div align="center">
-  <a href="https://discord.com/users/321338095259877377" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:tech.rafaellima@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-rafael-24ba46313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 ---
 
 # 📖| Sobre Mim
