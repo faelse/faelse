@@ -21,13 +21,13 @@
 
 ---
 
-## About Me
-### I'm a Computer Science student at UECE, passionate about **web development and programming logic**.  
-### Currently exploring **React, TypeScript, TailwindCSS** to build modern and interactive applications.
+# About Me
+## I'm a Computer Science student at UECE, passionate about **web development and programming logic**.  
+## Currently exploring **React, TypeScript, TailwindCSS** to build modern and interactive applications.
 
 ---
 
-## Skills
+# Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
