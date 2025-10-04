@@ -5,8 +5,6 @@
 <h1 align="center">Olá 👋, eu sou o Rafael!</h1>
 <h2 align="center">Estudante de Ciência da Computação na Universidade Estadual do Ceará e Desenvolvedor de Sistemas</h2>
 
----
-
 <div align="center">
   <a href="https://discord.com/users/321338095259877377" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
