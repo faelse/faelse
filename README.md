@@ -58,9 +58,6 @@
 # GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jsfael&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=jsfael&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfael&layout=compact&theme=dark" height="180" />
 </div>
 
 ---
