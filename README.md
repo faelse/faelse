@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+# GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jsfael&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <br />
