@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI2Yzc1a3Y3cGNsdG9vaG14cWdjOTk0bXMxZGk0b2hxZms2ZTBvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"  />
-</div>
 
 <h1 align="center">Olá 👋, eu sou o Rafael!</h1>
 <h2 align="center">Sou Desenvolvedor de Sistemas e estudante de Ciência da Computação na Universidade Estadual do Ceará.</h2>
