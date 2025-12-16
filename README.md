@@ -36,4 +36,4 @@
 
 ## 📫 | Vamos nos Conectar!
 ### Sinta-se à vontade para me contatar via [Discord](https://discord.com/users/321338095259877377) ou [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rafael-24ba46313/)!  
-### Você também pode me enviar um e-mail para **tech.rafaellima@gmail.com**.
+### Você também pode me enviar um e-mail : **tech.rafaellima@gmail.com**.
