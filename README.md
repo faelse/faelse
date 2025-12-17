@@ -2,8 +2,6 @@
 <h1 align="center">Olá 👋, eu sou o Rafael!</h1>
 <h2 align="center">Sou Desenvolvedor de Sistemas e estudante de Ciência da Computação na Universidade Estadual do Ceará.</h2>
 
----
-
 # 📖| Sobre Mim
 ###  Sou estudante de Ciência da Computação na UECE, apaixonado por **desenvolvimento web e lógica de programação**. 
 ###  Atualmente explorando **React, TypeScript e TailwindCSS** para construir aplicações modernas e interativas.
